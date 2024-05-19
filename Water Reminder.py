@@ -20,7 +20,7 @@ while True:
 
     try:
 
-        d = float(input("* ENTER HOW MUCH MINUTES LATER YOU WANT WATER ::-> "))
+        d = float(input("* ENTER HOW MANY MINUTES LATER YOU WANT WATER ::-> "))
 
         break
 
